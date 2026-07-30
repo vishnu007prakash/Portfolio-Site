@@ -1,45 +1,58 @@
-# Vishnu Prakash K — Portfolio
+# Hi, I’m Vishnu Prakash 👋
 
-A premium, animated single-page portfolio for a Data Analyst / BI Developer.
-Pure HTML/CSS/JS — no build step, no dependencies to install.
+<img src="https://readme-typing-svg.demolab.com?font=Rubik&size=26&pause=1200&color=FFFFFF&background=0,0,0,0&center=true&vCenter=true&width=800&lines=VishnuPrakash+%7C+Data+Analyst+%E2%80%A2+AI+Engineer+%E2%80%A2+Power+BI+Developer;Founder+-+Infinity+Nest+Data+Analytics" alt="typing header" />
 
-## Structure
-```
-index.html
-css/style.css
-js/script.js
-assets/profile.jpg      → your photo
-assets/ring.png         → decorative hero ring graphic
-assets/Vishnuprakash_K_Resume.pdf  → downloadable resume (linked from the "Download résumé" button)
-```
+[![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=vishnu007prakash.vishnu007prakash)](https://visitor-badge.laobi.icu/) 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=vishnu007prakash&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu007prakash&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=vishnu007prakash&theme=dark)](https://git.io/streak-stats)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=vishnu007prakash&theme=dark&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Run locally
-Just open `index.html` in a browser. For best results (some browsers restrict
-local file access), serve it with a tiny local server:
-```
-python3 -m http.server 8080
-```
-then visit `http://localhost:8080`.
+---
 
-## Deploy on GitHub Pages
-1. Create a new GitHub repo, e.g. `vishnu-portfolio`.
-2. Push all files in this folder to the repo root (so `index.html` sits at the top level).
-3. In the repo: **Settings → Pages → Build and deployment → Source: "Deploy from a branch"**, branch `main`, folder `/ (root)`.
-4. Save. Your site will be live at `https://<your-username>.github.io/vishnu-portfolio/` within a minute or two.
+About
+- Role: Business Data Analyst | AI Engineer | Power BI Developer | Python Developer
+- Founder at Infinity Nest Data Analytics — building data products, dashboards, and ML-based decisioning for business users.
+- Location: Chennai, Tamil Nadu, India
+- Looking for: Data/AI/BI roles, freelance analytics engagements, collaboration on data products.
 
-## Deploy on Hostinger
-1. Log in to **hPanel → Websites → Manage** → **File Manager** (or connect via FTP/SFTP with FileZilla).
-2. Open the `public_html` folder for your domain (delete/back up any default `index.html` placed there).
-3. Upload the entire contents of this folder (`index.html`, `css/`, `js/`, `assets/`) directly into `public_html` — keep the folder structure intact.
-4. Visit your domain — it should load immediately, no server config needed since this is a static site.
+Skills
+- Data & Analytics: Power BI, SQL (Postgres/MySQL), Excel, DAX, Data Modeling
+- Programming & AI: Python (pandas, scikit-learn, numpy), Jupyter, ML pipelines
+- Data Engineering: ETL, data cleaning, query optimisation
+- Tools & Infra: Git, GitHub Actions, Docker (optional), Azure/AWS basics
+- Soft: Business storytelling, stakeholder communication, requirement-to-dashboard delivery
 
-## Updating content later
-- Text and section content: edit `index.html` directly — everything is in plain, labeled sections (`hero`, `overview`, `reports`, `dashboards`, `metrics`, `credentials`, `contact`).
-- Colors/fonts: all design tokens live at the top of `css/style.css` under `:root`.
-- To swap your photo: replace `assets/profile.jpg` with a new square-ish image of the same filename.
-- To update your resume: replace `assets/Vishnuprakash_K_Resume.pdf` with a new file of the same filename (or update the `href` in the "Download résumé" button in `index.html`).
+Key links
+- Website / Portfolio: https://github.com/vishnu007prakash/Portfolio-Site
+- Company: https://infinitynestdataanalytics.com
+- LinkedIn: https://www.linkedin.com/in/vishnuprakash-k-565905354
+- Email: vip007prakash@gmail.com
+- Portfolio (hosted): https://infinitynestdataanalytics.com
 
-## Notes
-- Fully responsive (mobile, tablet, desktop) with a collapsing nav on small screens.
-- Respects `prefers-reduced-motion` for accessibility.
-- Fonts are loaded from Google Fonts via CDN (Space Grotesk, Inter, JetBrains Mono) — requires an internet connection to render the intended typefaces (falls back gracefully otherwise).
+Featured Projects
+- Portfolio (Website) — Personal site & case studies (Portfolio-Site)
+- Power BI Dashboards — Business dashboards with storytelling & data modeling (POWER-BI-PROJECT)
+- E-Commerce Analytics — SQL + Python + Power BI sales analysis with ML examples (E_Com_analysis)
+- Machine Learning Notebooks — End-to-end experiments and models (ML-PROJECT)
+- SQL Cookbook — Reusable SQL queries, optimization patterns (SQL-PROJECTS)
+- Python Tools — Utilities and small production-ready scripts (PYTHON-PROJECT)
+
+Certifications & Education
+- Google Data Analytics (Coursera) — add certificate link(s) in this section
+- Power BI Certification — add link
+- B.E. Computer Science and Engineering, Jeppiaar Engineering College, Anna University (CGPA: 7.98)
+
+How I work
+- User-focused dashboards, clean datasets, reproducible notebooks.
+- Emphasize clarity: every analysis ships with a README, sample data, and a one-minute demo GIF.
+- I prefer unit-tested code for production Python and CI workflows for deployment.
+
+Hiring / Contact
+- Open to full-time and contract roles. Available for consulting for dashboard builds, analytics reviews and AI PoCs.
+- Email: vip007prakash@gmail.com
+- LinkedIn: https://www.linkedin.com/in/vishnuprakash-k-565905354
+
+Footer
+- Keywords (for SEO): Data Analyst • Business Analyst • AI Engineer • Power BI • Python • SQL • Machine Learning • Data Science
+- If you’d like to collaborate or request a case study, DM on LinkedIn or email me.
